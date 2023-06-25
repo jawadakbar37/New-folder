@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 fgfghkfkhghkhkf
+=======
+fgfghkfkhghkhkf
+bund na marao
+>>>>>>> Stashed changes
